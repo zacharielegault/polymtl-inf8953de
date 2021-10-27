@@ -1,2 +1,1 @@
-# polymtl-inf8953de
-INF8953DE Reinforcement Learning (A2021)
+# INF8953DE Reinforcement Learning (A2021)
